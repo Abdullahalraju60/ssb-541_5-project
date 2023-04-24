@@ -1,0 +1,34 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto", sans-serif}
+    
+body{
+    text-align: center;
+    background-color: lightskyblue;
+}
+.logo{
+    background-color: burlywood ;
+}
+.p1{
+    border: 2px solid black;
+    background-color: hotpink;
+}
+.p2{
+    border: 2px solid black;
+    background-color: rgb(213, 255, 105);
+}
+.p3{
+    border: 2px solid black;
+    background-color: rgb(255, 105, 115);
+}
+.p4{
+    border: 2px solid black;
+    background-color: rgb(255, 203, 105);
+}
+.p5{
+    border: 2px solid black;
+    background-color: rgb(255, 148, 105);
+}
+footer{
+    background-color: darkseagreen;
+}
+ 
